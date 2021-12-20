@@ -1,0 +1,111 @@
+Inter University of the Western Cape Ping with a total average RTT of : 221.16666666666666
+Inter Durban University of Technology Ping with a total average RTT of : 210.16666666666666
+Inter Rhodes University Ping with a total average RTT of : 216.0
+Inter University of Ghana Ping with a total average RTT of : 185.33333333333334
+Inter University of Cape Coast Ping with a total average RTT of : 191.66666666666666
+Inter Kwame Nkrumah University of Science & Technology Ping with a total average RTT of : 200.33333333333334
+Inter University of Nairobi Ping with a total average RTT of : 282.3333333333333
+Inter Mount Kenya University Ping with a total average RTT of : 227.83333333333334
+Inter Ndejje University Ping with a total average RTT of : 222.16666666666666
+Inter Uganda Christian University Ping with a total average RTT of : 236.0
+Inter Universite de Jijel Ping with a total average RTT of : 190.5
+Inter Université Ibn Zohr Ping with a total average RTT of : 159.83333333333334
+Inter University of Hassan II Casablanca Ping with a total average RTT of : 148.16666666666666
+Inter University of Medical Sciences and Technology (UMST) Ping with a total average RTT of : nan
+Inter The Open University of Tanzania Ping with a total average RTT of : 221.83333333333334
+Inter Sokoine University of Agriculture Ping with a total average RTT of : nan
+Inter Mulungushi University Ping with a total average RTT of : 261.6666666666667
+Inter University of Lusaka Ping with a total average RTT of : 260.6666666666667
+Inter Obafemi Awolowo University Ping with a total average RTT of : 241.83333333333334
+Inter University of Namibia Ping with a total average RTT of : 228.16666666666666
+Inter Namibia University of Science and Technology Ping with a total average RTT of : 255.66666666666666
+Intra University of the Western Cape Ping with a total average RTT of : 16.666666666666668
+Intra Durban University of Technology Ping with a total average RTT of : 22.666666666666668
+Intra Rhodes University Ping with a total average RTT of : 26.333333333333332
+Intra University of Ghana Ping with a total average RTT of : 2.1666666666666665
+Intra University of Cape Coast Ping with a total average RTT of : 5.5
+Intra Kwame Nkrumah University of Science & Technology Ping with a total average RTT of : 6.166666666666667
+Intra University of Nairobi Ping with a total average RTT of : 5.166666666666667
+Intra Mount Kenya University Ping with a total average RTT of : 311.5
+Intra Ndejje University Ping with a total average RTT of : 8.0
+Intra Uganda Christian University Ping with a total average RTT of : 8.666666666666666
+Intra Universite de Jijel Ping with a total average RTT of : 15.0
+Intra Université Ibn Zohr Ping with a total average RTT of : 19.0
+Intra University of Hassan II Casablanca Ping with a total average RTT of : 9.333333333333334
+Intra University of Medical Sciences and Technology (UMST) Ping with a total average RTT of : nan
+Intra The Open University of Tanzania Ping with a total average RTT of : 1.0
+Intra Sokoine University of Agriculture Ping with a total average RTT of : nan
+Intra Mulungushi University Ping with a total average RTT of : 1.1666666666666667
+Intra University of Lusaka Ping with a total average RTT of : 2.0
+Intra Obafemi Awolowo University Ping with a total average RTT of : 144.16666666666666
+Intra University of Namibia Ping with a total average RTT of : 10.5
+Intra Namibia University of Science and Technology Ping with a total average RTT of : 10.5
+Inter University of the Western Cape Traceroute with a total average RTT of : 234.33333333333334 Average number of hops: 14.066666666666668 Average number of inter hops: 3.6
+Inter Durban University of Technology Traceroute with a total average RTT of : 227.66666666666666 Average number of hops: 15.666666666666666 Average number of inter hops: 4.666666666666667
+Inter Rhodes University Traceroute with a total average RTT of : 239.33333333333334 Average number of hops: 17.333333333333332 Average number of inter hops: 4.133333333333333
+Inter University of Ghana Traceroute with a total average RTT of : 201.0 Average number of hops: 15.666666666666666 Average number of inter hops: 4.533333333333333
+Inter University of Cape Coast Traceroute with a total average RTT of : 177.0 Average number of hops: 15.066666666666668 Average number of inter hops: 5.666666666666667
+Inter Kwame Nkrumah University of Science & Technology Traceroute with a total average RTT of : 200.0 Average number of hops: 20.466666666666665 Average number of inter hops: 4.2
+Inter University of Nairobi Traceroute with a total average RTT of : 257.6666666666667 Average number of hops: 17.666666666666668 Average number of inter hops: 4.0
+Inter Mount Kenya University Traceroute with a total average RTT of : 211.33333333333334 Average number of hops: 18.466666666666665 Average number of inter hops: 3.4
+Inter Ndejje University Traceroute with a total average RTT of : 213.33333333333334 Average number of hops: 16.266666666666666 Average number of inter hops: 5.2
+Inter Uganda Christian University Traceroute with a total average RTT of : 251.66666666666666 Average number of hops: 21.933333333333334 Average number of inter hops: 5.0
+Inter Universite de Jijel Traceroute with a total average RTT of : 153.0 Average number of hops: 19.8 Average number of inter hops: 5.400000000000001
+Inter Université Ibn Zohr Traceroute with a total average RTT of : 129.33333333333334 Average number of hops: 14.666666666666666 Average number of inter hops: 5.2
+Inter University of Hassan II Casablanca Traceroute with a total average RTT of : 110.33333333333333 Average number of hops: 16.866666666666667 Average number of inter hops: 5.2
+Inter University of Medical Sciences and Technology (UMST) Traceroute with a total average RTT of : 161.66666666666666 Average number of hops: 22.8 Average number of inter hops: 5.266666666666667
+Inter The Open University of Tanzania Traceroute with a total average RTT of : 228.0 Average number of hops: 16.0 Average number of inter hops: 5.533333333333334
+Inter Sokoine University of Agriculture Traceroute with a total average RTT of : 209.0 Average number of hops: 15.866666666666665 Average number of inter hops: 4.6000000000000005
+Inter Mulungushi University Traceroute with a total average RTT of : 268.0 Average number of hops: 15.466666666666667 Average number of inter hops: 4.6
+Inter University of Lusaka Traceroute with a total average RTT of : 264.3333333333333 Average number of hops: 18.466666666666665 Average number of inter hops: 4.8
+Inter Obafemi Awolowo University Traceroute with a total average RTT of : 204.0 Average number of hops: 15.399999999999999 Average number of inter hops: 5.266666666666667
+Inter University of Namibia Traceroute with a total average RTT of : 246.33333333333334 Average number of hops: 16.400000000000002 Average number of inter hops: 3.8666666666666667
+Inter Namibia University of Science and Technology Traceroute with a total average RTT of : 263.0 Average number of hops: 16.0 Average number of inter hops: 3.9333333333333336
+Intra University of the Western Cape Traceroute with a total average RTT of : 20.0 Average number of hops: 9.133333333333335 Average number of inter hops: 1.8666666666666665
+Intra Durban University of Technology Traceroute with a total average RTT of : 27.0 Average number of hops: 12.866666666666667 Average number of inter hops: 2.8666666666666667
+Intra Rhodes University Traceroute with a total average RTT of : 21.666666666666668 Average number of hops: 12.866666666666665 Average number of inter hops: 1.6666666666666667
+Intra University of Ghana Traceroute with a total average RTT of : 1.6666666666666667 Average number of hops: 5.75 Average number of inter hops: 1.25
+Intra University of Cape Coast Traceroute with a total average RTT of : 5.833333333333333 Average number of hops: 6.25 Average number of inter hops: 1.25
+Intra Kwame Nkrumah University of Science & Technology Traceroute with a total average RTT of : 6.166666666666667 Average number of hops: 4.5 Average number of inter hops: 1.25
+Intra University of Nairobi Traceroute with a total average RTT of : 7.0 Average number of hops: 10.6 Average number of inter hops: 1.8666666666666665
+Intra Mount Kenya University Traceroute with a total average RTT of : 310.8333333333333 Average number of hops: 20.3 Average number of inter hops: 3.85
+Intra Ndejje University Traceroute with a total average RTT of : 6.666666666666667 Average number of hops: 8.066666666666666 Average number of inter hops: 1.8666666666666665
+Intra Uganda Christian University Traceroute with a total average RTT of : 9.666666666666666 Average number of hops: 8.799999999999999 Average number of inter hops: 1.6000000000000003
+Intra Universite de Jijel Traceroute with a total average RTT of : 13.0 Average number of hops: 3.5 Average number of inter hops: 2.0
+Intra Université Ibn Zohr Traceroute with a total average RTT of : 18.25 Average number of hops: 6.0 Average number of inter hops: 2.0
+Intra University of Hassan II Casablanca Traceroute with a total average RTT of : 8.5 Average number of hops: 8.0 Average number of inter hops: 2.0
+Intra University of Medical Sciences and Technology (UMST) Traceroute with a total average RTT of : 88.5 Average number of hops: 17.0 Average number of inter hops: 3.0
+Inter University of the Western Cape Traceroute with a total average RTT of : 225.33333333333334 Average number of hops: 9.933333333333334 Average number of inter hops: 3.0666666666666664
+Inter Durban University of Technology Traceroute with a total average RTT of : 176.0 Average number of hops: 10.800000000000002 Average number of inter hops: 4.0
+Inter Rhodes University Traceroute with a total average RTT of : 207.0 Average number of hops: 15.200000000000001 Average number of inter hops: 3.533333333333333
+Inter University of Ghana Traceroute with a total average RTT of : 198.66666666666666 Average number of hops: 12.6 Average number of inter hops: 4.4
+Inter University of Cape Coast Traceroute with a total average RTT of : 176.0 Average number of hops: 10.4 Average number of inter hops: 5.2
+Inter Kwame Nkrumah University of Science & Technology Traceroute with a total average RTT of : 200.0 Average number of hops: 16.0 Average number of inter hops: 3.8666666666666667
+Inter University of Nairobi Traceroute with a total average RTT of : 255.66666666666666 Average number of hops: 13.4 Average number of inter hops: 3.6666666666666665
+Inter Mount Kenya University Traceroute with a total average RTT of : 211.33333333333334 Average number of hops: 14.800000000000002 Average number of inter hops: 3.1999999999999997
+Inter Ndejje University Traceroute with a total average RTT of : 188.66666666666666 Average number of hops: 12.333333333333334 Average number of inter hops: 4.466666666666667
+Inter Uganda Christian University Traceroute with a total average RTT of : 218.33333333333334 Average number of hops: 17.066666666666666 Average number of inter hops: 4.4
+Inter Universite de Jijel Traceroute with a total average RTT of : 145.0 Average number of hops: 15.866666666666667 Average number of inter hops: 4.733333333333333
+Inter Université Ibn Zohr Traceroute with a total average RTT of : 120.33333333333333 Average number of hops: 12.4 Average number of inter hops: 4.466666666666667
+Inter University of Hassan II Casablanca Traceroute with a total average RTT of : 116.0 Average number of hops: 13.199999999999998 Average number of inter hops: 4.4
+Inter University of Medical Sciences and Technology (UMST) Traceroute with a total average RTT of : 165.0 Average number of hops: 18.266666666666666 Average number of inter hops: 4.666666666666667
+Inter The Open University of Tanzania Traceroute with a total average RTT of : 222.33333333333334 Average number of hops: 11.933333333333335 Average number of inter hops: 4.866666666666666
+Inter Sokoine University of Agriculture Traceroute with a total average RTT of : 176.0 Average number of hops: 11.466666666666667 Average number of inter hops: 3.8000000000000003
+Inter Mulungushi University Traceroute with a total average RTT of : 259.6666666666667 Average number of hops: 15.866666666666667 Average number of inter hops: 3.4
+Inter University of Lusaka Traceroute with a total average RTT of : 252.33333333333334 Average number of hops: 14.133333333333333 Average number of inter hops: 4.133333333333333
+Inter Obafemi Awolowo University Traceroute with a total average RTT of : 205.33333333333334 Average number of hops: 11.6 Average number of inter hops: 4.666666666666667
+Inter University of Namibia Traceroute with a total average RTT of : 234.66666666666666 Average number of hops: 12.733333333333334 Average number of inter hops: 3.0666666666666664
+Inter Namibia University of Science and Technology Traceroute with a total average RTT of : 233.66666666666666 Average number of hops: 11.200000000000001 Average number of inter hops: 3.1333333333333333
+Intra University of the Western Cape Traceroute with a total average RTT of : 17.0 Average number of hops: 8.933333333333332 Average number of inter hops: 2.066666666666667
+Intra Durban University of Technology Traceroute with a total average RTT of : 22.666666666666668 Average number of hops: 12.199999999999998 Average number of inter hops: 2.6666666666666665
+Intra Rhodes University Traceroute with a total average RTT of : 24.666666666666668 Average number of hops: 14.199999999999998 Average number of inter hops: 1.8666666666666665
+Intra University of Ghana Traceroute with a total average RTT of : 1.6666666666666667 Average number of hops: 5.75 Average number of inter hops: 1.25
+Intra University of Cape Coast Traceroute with a total average RTT of : 4.833333333333333 Average number of hops: 6.25 Average number of inter hops: 1.25
+Intra Kwame Nkrumah University of Science & Technology Traceroute with a total average RTT of : 6.0 Average number of hops: 4.5 Average number of inter hops: 1.0
+Intra University of Nairobi Traceroute with a total average RTT of : 5.333333333333333 Average number of hops: 10.066666666666668 Average number of inter hops: 1.7333333333333334
+Intra Mount Kenya University Traceroute with a total average RTT of : 307.6666666666667 Average number of hops: 20.733333333333334 Average number of inter hops: 3.8666666666666667
+Intra Ndejje University Traceroute with a total average RTT of : 7.5 Average number of hops: 8.0 Average number of inter hops: 1.9
+Intra Uganda Christian University Traceroute with a total average RTT of : 8.5 Average number of hops: 9.2 Average number of inter hops: 1.6
+Intra Universite de Jijel Traceroute with a total average RTT of : 13.0 Average number of hops: 3.5 Average number of inter hops: 1.75
+Intra Université Ibn Zohr Traceroute with a total average RTT of : 19.5 Average number of hops: 7.0 Average number of inter hops: 2.0
+Intra University of Hassan II Casablanca Traceroute with a total average RTT of : 8.0 Average number of hops: 8.0 Average number of inter hops: 2.0

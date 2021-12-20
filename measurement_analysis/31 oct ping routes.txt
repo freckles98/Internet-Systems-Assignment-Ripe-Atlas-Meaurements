@@ -1,0 +1,42 @@
+Inter University of the Western Cape Ping with a total average RTT of : 216.16666666666666
+Inter Durban University of Technology Ping with a total average RTT of : 199.0
+Inter Rhodes University Ping with a total average RTT of : 210.0
+Inter University of Ghana Ping with a total average RTT of : 227.0
+Inter University of Cape Coast Ping with a total average RTT of : 178.5
+Inter Kwame Nkrumah University of Science & Technology Ping with a total average RTT of : 176.16666666666666
+Inter University of Nairobi Ping with a total average RTT of : 265.1666666666667
+Inter Mount Kenya University Ping with a total average RTT of : 220.5
+Inter Ndejje University Ping with a total average RTT of : 213.16666666666666
+Inter Uganda Christian University Ping with a total average RTT of : 232.0
+Inter Universite de Jijel Ping with a total average RTT of : 181.33333333333334
+Inter Université Ibn Zohr Ping with a total average RTT of : 146.0
+Inter University of Hassan II Casablanca Ping with a total average RTT of : 135.83333333333334
+Inter University of Medical Sciences and Technology (UMST) Ping with a total average RTT of : 180.0
+Inter The Open University of Tanzania Ping with a total average RTT of : 222.5
+Inter Sokoine University of Agriculture Ping with a total average RTT of : 172.0
+Inter Mulungushi University Ping with a total average RTT of : 261.0
+Inter University of Lusaka Ping with a total average RTT of : 256.3333333333333
+Inter Obafemi Awolowo University Ping with a total average RTT of : 221.33333333333334
+Inter University of Namibia Ping with a total average RTT of : 221.16666666666666
+Inter Namibia University of Science and Technology Ping with a total average RTT of : 244.0
+
+Intra University of the Western Cape Ping with a total average RTT of : 18.333333333333332
+Intra Durban University of Technology Ping with a total average RTT of : 28.0
+Intra Rhodes University Ping with a total average RTT of : 21.666666666666668
+Intra University of Ghana Ping with a total average RTT of : 1.6666666666666667
+Intra University of Cape Coast Ping with a total average RTT of : 7.333333333333333
+Intra Kwame Nkrumah University of Science & Technology Ping with a total average RTT of : 13.0
+Intra University of Nairobi Ping with a total average RTT of : 3.6666666666666665
+Intra Mount Kenya University Ping with a total average RTT of : 296.6666666666667
+Intra Ndejje University Ping with a total average RTT of : 6.333333333333333
+Intra Uganda Christian University Ping with a total average RTT of : 6.333333333333333
+Intra Universite de Jijel Ping with a total average RTT of : 25.5
+Intra Université Ibn Zohr Ping with a total average RTT of : 18.5
+Intra University of Hassan II Casablanca Ping with a total average RTT of : 9.166666666666666
+Intra University of Medical Sciences and Technology (UMST) Ping with a total average RTT of : 5.0
+Intra The Open University of Tanzania Ping with a total average RTT of : 1.0
+Intra Sokoine University of Agriculture Ping with a total average RTT of : 17.333333333333332
+Intra Mulungushi University Ping with a total average RTT of : 1.0
+Intra University of Lusaka Ping with a total average RTT of : 2.0
+Intra University of Namibia Ping with a total average RTT of : 7.666666666666667
+Intra Namibia University of Science and Technology Ping with a total average RTT of : 7.666666666666667
